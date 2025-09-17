@@ -18,5 +18,11 @@ Bài thực hành số 6 với mục tiêu:
   - Giao diện quản trị với **Bootstrap 5**  
 
 ---
-
-## 📂 Cấu trúc đề tài
+## ✅ Đã làm được
+- Chức năng CRUD đầy đủ cho **Category, Video, User**  
+- Tìm kiếm theo tên, username, title  
+- Phân trang dữ liệu bằng `Pageable`  
+- Upload ảnh + hiển thị ảnh (nếu không có → `noimage.png`)  
+- Ràng buộc dữ liệu với `@Valid` và `BindingResult`  
+- Hiển thị trạng thái (Kích hoạt/Ẩn) với badge màu  
+- Giao diện quản trị responsive với Bootstrap 5  
