@@ -1,5 +1,5 @@
 # BÀI THỰC HÀNH SỐ 6  
-**Họ tên:** Cáp Nhân Thanh  
+**Họ tên:** Cáp Thanh Nhàn  
 **MSSV:** 23110276  
 
 ---
